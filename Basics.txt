@@ -1,0 +1,20 @@
+what is git ?
+- Git is a distributed version control system designed to track changes in source code during software development. It allows multiple developers to collaborate on a project, keep track of changes, merge code from different contributors, and revert to previous versions if needed. 
+what is gitHub ?
+- GitHub, on the other hand, is a web-based platform built around Git that provides hosting for Git repositories and offers additional collaboration and project management features. It allows developers to store their Git repositories online, making it easier to share code, collaborate with others, track issues and bugs, manage project milestones, and facilitate code reviews through pull requests.
+
+
+How to merge sub branch with main branch ?
+- pull requests from sub branch to any other branch 
+ 
+push : changes dene ko ko Push Kahete hai. We can do push in same file but can't other files. Push to one file to other files we have to create pull requests.
+
+Pull : changes lene ko pull kahatehe hai
+
+
+Fork - complete copy of anyone repo and can edit that copy and send a pull request to original author 
+
+
+
+
+
