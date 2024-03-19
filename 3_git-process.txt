@@ -1,0 +1,32 @@
+git init : initiate git process in current folder
+
+git status : shows tracked/untracked files
+
+git add . : Adds every files in gits tracking zone
+
+git reset : makes all files untracked
+
+folder(.gitignore) : create this folder then write all folder or file name in it, which git will ignore
+- *.html : will ignore all html files
+
+git commit -m "message" : stages the files to get pushed on next push command
+
+git remote add origin url of repo: setting address of the location where the changes will be pushed
+
+git clone url : clone repo from internet to your local computer
+
+commiting and pushing changes on internet----------
+
+git add . 
+
+git commit -m "message"
+
+git pull origin master : to make sure you are upto date
+
+git push origin master : pushing changes to the remote
+
+error pull and push :  Could not read from remote repository.
+
+use : git remote add origin url of repo , to tell which remote repo
+
+
