@@ -28,5 +28,21 @@ git push origin master : pushing changes to the remote
 error pull and push :  Could not read from remote repository.
 
 use : git remote add origin url of repo , to tell which remote repo
+--------------------------------------------------------
+
+git remote add origin url of repo(specific branch)
+
+git branch : to check which branch
+
+git add .
+
+git pull origin branch_name : upto date
+
+git commit -m "messages"
+
+git push origin branch_name
+
+/*Note: can pull from and push to remote repo to local repo
+-----------------------------------------------------------
 
 
